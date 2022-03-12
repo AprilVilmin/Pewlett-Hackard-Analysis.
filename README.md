@@ -11,16 +11,42 @@ Pewlett Hackard, a company with thousands of employees, is trying to prepare for
      
 ### Retiring_Titles Table
  ![title&title_count.png](https://github.com/AprilVilmin/Pewlett-Hackard-Analysis./blob/main/title%26title_count.png)    
+
+### Retiring Titles Code
+     SELECT *
+     FROM retiring_titles
      
-- There are 3605 people in leadership positions retiring, 50,842 people in senior level positions retiring, 16,921 people in staff positions retiring and 1,090 people in assistant positions retiring from Pewlett Hackard
+- There are 3,605 people in leadership positions retiring, 50,842 people in senior level positions retiring, 16,921 people in staff positions retiring and 1,090 people in assistant positions retiring from Pewlett Hackard
      See the a breakout of details of the retiring_titles table below
      
 ### Retiring_Titles Breakout Details
 ![titles&counts&subtotals.png](https://github.com/AprilVilmin/Pewlett-Hackard-Analysis./blob/main/titles%26counts%26subtotals.png)
 
 
--
--
+### Retiring Titles Breakout Details Code
+
+     SELECT DISTINCT CASE
+		WHEN title = 'Manager' OR title =  'Technique Leader' THEN 'Leadership Level' 
+		WHEN title = 'Senior Engineer' OR title = 'Senior Staff' THEN 'Senior Level'
+		WHEN title = 'Engineer' OR title = 'Staff' THEN 'Staff Level'
+		ELSE 'Assistant Level'
+		END AS employee_level
+     FROM retiring_titles
+     ORDER BY employee_level
+
+
+- There are 1,549 employees who are mentorship eligible. This includes 437 senior staff members, 384 engineers, 301 senior engineers, 287 staff members, 77 technique leaders and 63 assistant engineers.
+
+### Mentor Eligibility Details
+![MENTORSHIP_ELIG.png](https://github.com/AprilVilmin/Pewlett-Hackard-Analysis./blob/main/MENTORSHIP_ELIG.png)
+
+### Mentorship Eligibility Code
+
+
+     SELECT COUNT (title) AS title_count, title
+     FROM mentorship_eligibilty
+     GROUP BY title
+     ORDER BY title_count DESC
 
 
 
