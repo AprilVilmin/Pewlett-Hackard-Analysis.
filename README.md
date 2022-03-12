@@ -9,7 +9,7 @@ Pewlett Hackard, a company with thousands of employees, is trying to prepare for
 - 72,458 are going to be retiring from Pewlett Hackard according to the retiring_titles table
 
 
-![WeatherPy_vacation_map.png](https://github.com/AprilVilmin/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
+![title&title_count.png](https://github.com/AprilVilmin/Pewlett-Hackard-Analysis./blob/main/title%26title_count.png)
 
 
 -
