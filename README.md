@@ -21,7 +21,15 @@ Pewlett Hackard, a company with thousands of employees, is trying to prepare for
 
 - There are 1,549 employees who are mentorship eligible. This includes 437 senior staff members, 384 engineers, 301 senior engineers, 287 staff members, 77 technique leaders and 63 assistant engineers.
 
+### Mentor Eligibility Details
 ![MENTORSHIP_ELIG.png](https://github.com/AprilVilmin/Pewlett-Hackard-Analysis./blob/main/MENTORSHIP_ELIG.png)
+
+### Mentorship Eligibility Code
+
+SELECT COUNT (title) AS title_count, title
+FROM mentorship_eligibilty
+GROUP BY title
+ORDER BY title_count DESC
 
 
 
