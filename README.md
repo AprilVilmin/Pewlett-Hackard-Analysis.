@@ -25,10 +25,12 @@ Pewlett Hackard, a company with thousands of employees, is trying to prepare for
 ![MENTORSHIP_ELIG.png](https://github.com/AprilVilmin/Pewlett-Hackard-Analysis./blob/main/MENTORSHIP_ELIG.png)
 
 ### Mentorship Eligibility Code
-SELECT COUNT (title) AS title_count, title
-FROM mentorship_eligibilty
-GROUP BY title
-ORDER BY title_count DESC
+
+
+     SELECT COUNT (title) AS title_count, title
+     FROM mentorship_eligibilty
+     GROUP BY title
+     ORDER BY title_count DESC
 
 
 
