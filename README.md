@@ -11,6 +11,10 @@ Pewlett Hackard, a company with thousands of employees, is trying to prepare for
      
 ### Retiring_Titles Table
  ![title&title_count.png](https://github.com/AprilVilmin/Pewlett-Hackard-Analysis./blob/main/title%26title_count.png)    
+
+### Retiring Titles Code
+     SELECT *
+     FROM retiring_titles
      
 - There are 3,605 people in leadership positions retiring, 50,842 people in senior level positions retiring, 16,921 people in staff positions retiring and 1,090 people in assistant positions retiring from Pewlett Hackard
      See the a breakout of details of the retiring_titles table below
