@@ -20,7 +20,7 @@ Pewlett Hackard, a company with thousands of employees, is trying to prepare for
      See the a breakout of details of the retiring_titles table below
      
 ### Retiring_Titles Breakout Details
-![titles&counts&subtotals.png](https://github.com/AprilVilmin/Pewlett-Hackard-Analysis./blob/main/titles%26counts%26subtotals.png)
+![employee_level.png](https://github.com/AprilVilmin/Pewlett-Hackard-Analysis./blob/main/employee_level.png)
 
 
 ### Retiring Titles Breakout Details Code
