@@ -5,8 +5,8 @@ Pewlett Hackard, a company with thousands of employees, is trying to prepare for
 
 
 ## Results:
--
--
+- There are employees with 7 different job titles retiring from Pewlett Hackard
+- 72,458 are going to be retiring from Pewlett Hackard
 -
 -
 
