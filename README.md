@@ -5,14 +5,18 @@ Pewlett Hackard, a company with thousands of employees, is trying to prepare for
 
 
 ## Results:
-- There are employees with 7 different job titles retiring from Pewlett Hackard
-     See the retiring_titles table below
+- There are employees reiring from Pewlett Hackard have 7 different job titles
 - 72,458 are going to be retiring from Pewlett Hackard 
      See the retiring_titles table below
+     
+### Retiring_Titles Table
+ ![title&title_count.png](https://github.com/AprilVilmin/Pewlett-Hackard-Analysis./blob/main/title%26title_count.png)    
+     
 - There are 3605 people in leadership positions retiring, 50,842 people in senior level positions retiring, 16,921 people in staff positions retiring and 1,090 people in assistant positions retiring from Pewlett Hackard
-- 
-
-![title&title_count.png](https://github.com/AprilVilmin/Pewlett-Hackard-Analysis./blob/main/title%26title_count.png)
+     See the a breakout of details of the retiring_titles table below
+     
+### Retiring_Titles Breakout Details
+![titles&counts&subtotals.png](https://github.com/AprilVilmin/Pewlett-Hackard-Analysis./blob/main/titles%26counts%26subtotals.png)
 
 
 -
