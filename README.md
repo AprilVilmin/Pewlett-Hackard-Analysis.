@@ -48,20 +48,15 @@ Pewlett Hackard, a company with thousands of employees, is trying to prepare for
      GROUP BY title
      ORDER BY title_count DESC
 
-
-
 ## Summary:
 
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 If Pewlett Hackard is looking to replace every single person on a 1 to 1 basis they will need to replace 72,458 employees. If they are only looking to replace those that they don't have mentorship eligible staff for they would need to promote 70,909. Images for this are provided above.
 
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-It depends on how they plan to roll out the mentoring program if they plan to have someone mentor someone with the same job title they have enough staff to mentor senior engineers, senior staff, engineeres, staffs, technique leaders, assistant engineers. The only job title that doesn't have anyone with someone with the same job title to mentor is that of manager.
-
+It depends on how they plan to roll out the mentoring program if they plan to have someone mentor someone with the same job title they have enough staff to mentor senior engineers, senior staff, engineeres, staffs, technique leaders, assistant engineers. The only job title that doesn't have anyone with someone with the same job title to mentor is that of manager. Not knowing the career paths makes it hard to determine if there are enough people retiring to mentor those who are mentorship eligible. 
 
 ![retiring titles vs mentor elig.png](https://github.com/AprilVilmin/Pewlett-Hackard-Analysis./blob/main/retiring%20titles%20vs%20mentor%20elig.png)
-
-
 
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
