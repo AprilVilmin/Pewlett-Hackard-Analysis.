@@ -58,8 +58,17 @@ It depends on how they plan to roll out the mentoring program if they plan to ha
 
 ![retiring titles vs mentor elig.png](https://github.com/AprilVilmin/Pewlett-Hackard-Analysis./blob/main/retiring%20titles%20vs%20mentor%20elig.png)
 
--
+- The total salary for the 72,458 employees that are part of the "silver tsunami" is 3,832,741,608.
+	See the details on the table below.
 
+![total_salary.png](https://github.com/AprilVilmin/Pewlett-Hackard-Analysis./blob/main/total_salary.png)
+
+	SELECT sum(salary)
+	INTO total_salary
+	FROM salaries s
+	LEFT JOIN retirement_titles rt
+	ON s.emp_no = rt.emp_no
+	WHERE rt.to_date = '9999-01-01'
 
 -
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
