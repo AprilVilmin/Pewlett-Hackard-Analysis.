@@ -58,15 +58,8 @@ If Pewlett Hackard is looking to replace every single person on a 1 to 1 basis t
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 It depends on how they plan to roll out the mentoring program if they plan to have someone mentor someone with the same job title they have enough staff to mentor senior engineers, senior staff, engineeres, staffs, technique leaders, assistant engineers. The only job title that doesn't have anyone with someone with the same job title to mentor is that of manager.
 
-Reiring Titles title count	title	Mentor Eligibility Details
-25916	Senior Engineer	301
-24926	Senior Staff	437
-9285	Engineer	384
-7636	Staff	287
-3603	Technique Leader	77
-1090	Assistant Engineer	63
-2	Manager	0
 
+![MENTORSHIP_ELIG.png](https://github.com/AprilVilmin/Pewlett-Hackard-Analysis./blob/main/MENTORSHIP_ELIG.png)
 
 
 
