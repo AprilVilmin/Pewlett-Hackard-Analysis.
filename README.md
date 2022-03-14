@@ -59,7 +59,7 @@ If Pewlett Hackard is looking to replace every single person on a 1 to 1 basis t
 It depends on how they plan to roll out the mentoring program if they plan to have someone mentor someone with the same job title they have enough staff to mentor senior engineers, senior staff, engineeres, staffs, technique leaders, assistant engineers. The only job title that doesn't have anyone with someone with the same job title to mentor is that of manager.
 
 
-![MENTORSHIP_ELIG.png](https://github.com/AprilVilmin/Pewlett-Hackard-Analysis./blob/main/MENTORSHIP_ELIG.png)
+![retiring titles vs mentor elig.png](https://github.com/AprilVilmin/Pewlett-Hackard-Analysis./blob/main/retiring%20titles%20vs%20mentor%20elig.png)
 
 
 
