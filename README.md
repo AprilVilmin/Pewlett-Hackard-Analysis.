@@ -68,8 +68,6 @@ Reiring Titles title count	title	Mentor Eligibility Details
 2	Manager	0
 
 
-![image](https://user-images.githubusercontent.com/96510587/158095892-bc85d6bf-5d15-4a37-b7b9-535d9e875328.png)
-
 
 
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
