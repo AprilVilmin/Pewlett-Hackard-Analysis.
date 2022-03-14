@@ -20,7 +20,7 @@ Pewlett Hackard, a company with thousands of employees, is trying to prepare for
      See the a breakout of details of the retiring_titles table below
      
 ### Retiring_Titles Breakout Details
-![titles&counts&subtotals.png](https://github.com/AprilVilmin/Pewlett-Hackard-Analysis./blob/main/titles%26counts%26subtotals.png)
+![employee_level.png](https://github.com/AprilVilmin/Pewlett-Hackard-Analysis./blob/main/employee_level.png)
 
 
 ### Retiring Titles Breakout Details Code
@@ -53,10 +53,22 @@ Pewlett Hackard, a company with thousands of employees, is trying to prepare for
 ## Summary:
 
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+If Pewlett Hackard is looking to replace every single person on a 1 to 1 basis they will need to replace 72,458 employees. If they are only looking to replace those that they don't have mentorship eligible staff for they would need to promote 70,909. Images for this are provided above.
+
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+It depends on how they plan to roll out the mentoring program if they plan to have someone mentor someone with the same job title they have enough staff to mentor senior engineers, senior staff, engineeres, staffs, technique leaders, assistant engineers. The only job title that doesn't have anyone with someone with the same job title to mentor is that of manager.
+
+Reiring Titles title count	title	Mentor Eligibility Details
+25916	Senior Engineer	301
+24926	Senior Staff	437
+9285	Engineer	384
+7636	Staff	287
+3603	Technique Leader	77
+1090	Assistant Engineer	63
+2	Manager	0
 
 
 
-Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
