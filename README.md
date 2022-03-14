@@ -58,5 +58,9 @@ It depends on how they plan to roll out the mentoring program if they plan to ha
 
 ![retiring titles vs mentor elig.png](https://github.com/AprilVilmin/Pewlett-Hackard-Analysis./blob/main/retiring%20titles%20vs%20mentor%20elig.png)
 
+-
+
+
+-
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
