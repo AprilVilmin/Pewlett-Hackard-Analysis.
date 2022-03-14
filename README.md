@@ -56,6 +56,18 @@ Pewlett Hackard, a company with thousands of employees, is trying to prepare for
 If Pewlett Hackard is looking to replace every single person on a 1 to 1 basis they will need to replace 72,458 employees. If they are only looking to replace those that they don't have mentorship eligible staff for they would need to promote 70,909. Images for this are provided above.
 
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+It depends on how they plan to roll out the mentoring program if they plan to have someone mentor someone with the same job title they have enough staff to mentor senior engineers, senior staff, engineeres, staffs, technique leaders, assistant engineers. The only job title that doesn't have anyone with someone with the same job title to mentor is that of manager.
+
+Reiring Titles title count	title	Mentor Eligibility Details
+25916	Senior Engineer	301
+24926	Senior Staff	437
+9285	Engineer	384
+7636	Staff	287
+3603	Technique Leader	77
+1090	Assistant Engineer	63
+2	Manager	0
+![image](https://user-images.githubusercontent.com/96510587/158095892-bc85d6bf-5d15-4a37-b7b9-535d9e875328.png)
+
 
 
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
